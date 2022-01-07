@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+🌱 I’m currently learning golang and vue.js
 <!--
 **mrevjd/mrevjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://app.daily.dev/evjd"><img src="https://api.daily.dev/devcards/c2adf80ac39846b5a0766197b461f6c7.png?r=yva" width="400" alt="Evan Davies's Dev Card"/></a>
-
-⚡ Fun fact: <div class="embed-fungen"> <script src="https://fungenerators.com/extensions/embed/v1/fungen.js"></script> <script> FunGen.Embed.render( { context: 'random', toolId: 'trivia/useless-facts' } ); </script> <noscript>Please enable JavaScript to view the <a href="https://fungenerators.com/random/trivia/useless-facts">USELESS-FACTS Trivia from fungenerators.com.</a></noscript> <div class="light-text" style="text-decoration: none; color:#ccc; text-align: right; padding-right: 20px; margin-top: -20px;"><a href="https://fungenerators.com/random/trivia/useless-facts" title="Powered by USELESS-FACTS Trivia from fungenerators.com" style="text-decoration: none; color:#ccc; ">fungenerators.com</a></div> </div>

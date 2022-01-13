@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🌱 I’m currently learning golang and vue.js
+
 🔭 I’m currently working on migrations to AWS
 
 <!--

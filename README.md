@@ -2,7 +2,7 @@
 
 📝 I’m currently learning golang and vue.js
 
-⚙️ I’m currently working on migrations to AWS
+
 
 <!--
 **mrevjd/mrevjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-📝 I’m currently learning golang and vue.js
-
-
+- 📝 I’m currently working with Golang and Slim 4
+- 🪛 I’m tinkering with Python, Sceptre and Vue.js
+- ☁️ I’m currently learning AWS
 
 <!--
 **mrevjd/mrevjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <a href="https://app.daily.dev/evjd"><img src="https://api.daily.dev/devcards/c2adf80ac39846b5a0766197b461f6c7.png?r=yva" width="400" alt="Evan Davies's Dev Card"/></a>

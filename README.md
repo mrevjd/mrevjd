@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 📝 I’m currently working with Golang and Slim 4
-- 🪛 I’m tinkering with Python, Sceptre and Vue.js
+- 📝 I’m currently working with Vanilla JS and PHP
+- 🪛 I’m tinkering with Python, Sceptre, Golang and Vue.js
 - ☁️ I’m currently learning AWS
 
 <!--

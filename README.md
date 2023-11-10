@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 📝 I’m currently working with Vanilla JS and PHP
-- 🪛 I’m tinkering with Python, Sceptre, Golang and Vue.js
-- ☁️ I’m currently learning AWS
+- 🪛 I’m tinkering with Golang and Vue.js
+- ☁️ I’m always learning AWS
 
 <!--
 **mrevjd/mrevjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

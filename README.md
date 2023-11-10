@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/evjd"><img src="https://api.daily.dev/devcards/c2adf80ac39846b5a0766197b461f6c7.png?r=yva" width="400" alt="Evan Davies's Dev Card"/></a>
+<a href="https://app.daily.dev/edavies"><img src="https://api.daily.dev/devcards/c2adf80ac39846b5a0766197b461f6c7.png?r=gfx" width="400" alt="Evan Davies's Dev Card"/></a>

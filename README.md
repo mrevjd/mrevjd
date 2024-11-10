@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📝 I’m currently working with Vanilla JS and PHP
-- 🪛 I’m tinkering with SlimPHP and Vue.js
+- 🪛 I’m tinkering with GO and Vue.js
 - ☁️ I’m always learning AWS
 
 <!--
